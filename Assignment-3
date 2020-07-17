@@ -1,0 +1,19 @@
+         
+
+                                         Assignment - 3
+
+         1. Does ANSI recognize the data type DATE?
+
+         Ans: date complies with the ANSI SQL standard definition for the Gregorian calendar:
+
+              "NOTE 85 - Datetime data types will allow dates in the Gregorian format to be stored
+
+              in the date range 0001-01-01 CE through 9999-12-31 CE."
+
+         2. 
+
+         Ans: Data Manipulation Language : It contains various syntaxes related to manipulation of data
+
+              To Insert data there is an insert syntax which works as follows
+
+  
